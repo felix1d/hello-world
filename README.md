@@ -2,6 +2,10 @@
 trabaja con bootstrap 4 y completoo con jquery y popper js
 
 desconprime el arcivo y listo despues aplica esta plantilla básica
+
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
